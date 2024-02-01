@@ -26,7 +26,7 @@ let listCars = [
     },
     {
         'nome':'Ferrari SF90',
-        'img':'img/The Ferrari SF90 XX.jpeg',
+        'img':'img/The-Ferrari-SF90-XX.jpeg',
         'desc':'A Ferrari SF90 é um supercarro de alta performance que incorpora o que há de mais avançado em tecnologia e design na linha da Ferrari. Lançado em 2019, o SF90 é um híbrido plug-in, representando um marco significativo para a marca italiana, pois é o primeiro modelo de produção em série a contar com um sistema de propulsão híbrido',
     },
 ]
