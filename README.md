@@ -9,13 +9,14 @@ buscar as informações de cada carro armazenadas como uma lista de objetos dent
 # Pagina
 Link da pagina: https://gustavohenriqdev.github.io/QG-carros/
 
+Projeto ainda em desenvolvimento...
+
 # Tecnologias usadas
 - HTML
 - CSS
 - JavaScript
 - Bootstrap
 
-Projeto ainda em desenvolvimento...
 
 # Proximas adições
 - adição de mais carros
